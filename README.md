@@ -1,4 +1,4 @@
-# Hi there, I'm Deepika! 👋
+# Hi there, I'm Deepika! 
 
 ###  Associate Automation Developer 
 I am a passionate Automation Developer with a focus on building scalable, high-quality test automation frameworks. I specialize in both web and mobile automation, moving between diverse execution environments to ensure seamless software delivery.
