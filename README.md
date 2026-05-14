@@ -35,7 +35,7 @@ Developed a script comparing design sketches to generated images using OpenCV an
 ---
 
 ###  My GitHub Stats
-![Deepika's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepikadsouza&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepikadsouza&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepikadsouza&layout=compact&theme=dark)
 
 ---
